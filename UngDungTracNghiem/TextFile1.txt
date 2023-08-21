@@ -1,0 +1,10 @@
+﻿Câu 1: Phương thức gọi giữa 2 Activity trong Android là ……….
+*Intent
+Activity
+startActivity
+startActivities
+Câu 2: Ứng dụng Android yêu cầu quyền truy cập thông qua khai báo trong …..
+AndroidManifest.xml
+*Application footprint
+HttpURLConnection
+OAuth2 protocol

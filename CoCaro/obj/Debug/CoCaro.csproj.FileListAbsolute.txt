@@ -1,0 +1,11 @@
+D:\Sophomore\CS464\Buoi1\CoCaro\bin\Debug\CoCaro.exe.config
+D:\Sophomore\CS464\Buoi1\CoCaro\bin\Debug\CoCaro.exe
+D:\Sophomore\CS464\Buoi1\CoCaro\bin\Debug\CoCaro.pdb
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.Form1.resources
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.exe
+D:\Sophomore\CS464\Buoi1\CoCaro\obj\Debug\CoCaro.pdb

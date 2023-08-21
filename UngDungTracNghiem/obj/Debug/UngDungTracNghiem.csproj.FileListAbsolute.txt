@@ -1,0 +1,12 @@
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\bin\Debug\UngDungTracNghiem.exe.config
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\bin\Debug\UngDungTracNghiem.exe
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\bin\Debug\UngDungTracNghiem.pdb
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.csproj.AssemblyReference.cache
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.csproj.SuggestedBindingRedirects.cache
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.FormTracNghiem.resources
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.Properties.Resources.resources
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.csproj.GenerateResource.cache
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.csproj.CoreCompileInputs.cache
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.exe
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.pdb
+D:\Sophomore\CS464\Buoi1\UngDungTracNghiem\obj\Debug\UngDungTracNghiem.NumberOfQuestion.resources

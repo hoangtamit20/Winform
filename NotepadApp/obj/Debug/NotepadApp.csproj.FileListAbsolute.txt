@@ -1,0 +1,11 @@
+D:\Sophomore\CS464\Buoi1\NotepadApp\bin\Debug\NotepadApp.exe.config
+D:\Sophomore\CS464\Buoi1\NotepadApp\bin\Debug\NotepadApp.exe
+D:\Sophomore\CS464\Buoi1\NotepadApp\bin\Debug\NotepadApp.pdb
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.csproj.AssemblyReference.cache
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.csproj.SuggestedBindingRedirects.cache
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.Form1.resources
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.Properties.Resources.resources
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.csproj.GenerateResource.cache
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.csproj.CoreCompileInputs.cache
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.exe
+D:\Sophomore\CS464\Buoi1\NotepadApp\obj\Debug\NotepadApp.pdb

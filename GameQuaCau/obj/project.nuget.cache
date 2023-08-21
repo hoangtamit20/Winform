@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5si6areipJU11ut4ez4EcvAH+MotXhFEF9tr5b5qIXqzoRIDa5ENtNkAnzVGmZCfFXND2i8uTevNmlQUcL73XA==",
+  "success": true,
+  "projectFilePath": "D:\\Sophomore\\CS464\\Buoi1\\GameQuaCau\\GameQuaCau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.csprojAssemblyReference.cache
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.PhepTinhCoBan.resources
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.Properties.Resources.resources
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.csproj.GenerateResource.cache
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.csproj.CoreCompileInputs.cache
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\bin\Debug\Cs434SA.exe.config
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\bin\Debug\Cs434SA.exe
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\bin\Debug\Cs434SA.pdb
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.exe
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.pdb
+C:\Users\Tran Kim Sanh\source\repos\Cs434SA\Cs434SA\obj\Debug\Cs434SA.GameQuaCau.resources
